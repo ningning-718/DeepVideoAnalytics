@@ -105,7 +105,7 @@
                 }
               }
             ],
-            "path": "https://www.dropbox.com/s/v4vkdl7yi0iuz5n/citest.mp4"
+            "path": "http://172.16.10.177/dva_files/citest.mp4"
           }
         }
       ],
@@ -223,7 +223,7 @@
                 }
               }
             ],
-            "path": "https://www.dropbox.com/s/jedrxd50lk0aocm/exampledataset.zip"
+            "path": "http://172.16.10.177/dva_files/exampledataset.zip"
           }
         }
       ],
@@ -342,7 +342,7 @@
                 }
               }
             ],
-            "path": "https://www.dropbox.com/s/srb6qige8cgfkqe/crnn_test.zip"
+            "path": "http://172.16.10.177/dva_files/crnn_test.zip"
           }
         }
       ],
@@ -461,7 +461,7 @@
                 }
               }
             ],
-            "path": "https://www.dropbox.com/s/agbw9nl06nq33rk/coco_train2017_ci.zip"
+            "path": "http://172.16.10.177/dva_files/coco_train2017_ci.zip"
           }
         }
       ],
